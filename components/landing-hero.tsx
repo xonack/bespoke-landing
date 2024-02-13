@@ -24,8 +24,8 @@ export const LandingHero = () => {
                     }}
                 />
             </div>
-            <div className="flex justify-center pt-10">
-                <div className="mx-10 aspect-w-16 aspect-h-9">
+            <div className="flex flex-col sm:flex-row justify-center pt-10">
+                <div className="flex-1 mx-10 aspect-video">
                     <iframe
                         className="w-full h-full"
                         src="https://www.youtube.com/embed/w_saaTFEuSM"
