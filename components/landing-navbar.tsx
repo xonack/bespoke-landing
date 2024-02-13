@@ -41,7 +41,7 @@ export const LandingNavbar = () => {
                 </Link>
                 <Link href="https://twitter.com/icodeagents">
                     <Button variant="outline" className="rounded-full">
-                        X
+                        Contact
                     </Button>
                 </Link>
             </div>
