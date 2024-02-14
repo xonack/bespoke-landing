@@ -30,7 +30,7 @@ export const LandingNavbar = () => {
                     href="/"
                     className="flex items-center"
                     >
-                        <div className="relative h-24 w-96 mr-4">
+                        <div className="relative h-20 w-96 mr-4">
                             <Link href="/">
                                 <Image 
                                     className="rounded-md"
